@@ -50,6 +50,7 @@ module.exports = {
       lightRedGradient: "hsl(353, 100%, 62%)",
       veryDarkGrayBlueGradient: "hsl(237, 17%, 21%)",
       veryDarkDesaturatedBlueGradient: "hsl(237, 23%, 32%)",
+      transparent: "transparent",
     },
   },
   plugins: [],
