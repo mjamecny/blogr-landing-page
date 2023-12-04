@@ -52,6 +52,12 @@ module.exports = {
       veryDarkDesaturatedBlueGradient: "hsl(237, 23%, 32%)",
       transparent: "transparent",
     },
+    backgroundImage: {
+      header:
+        "url('./assets/bg-pattern-intro-mobile.svg'), linear-gradient(90deg,#ff896f,#ff525c)",
+      feature:
+        "url('./assets/bg-pattern-circles.svg'),linear-gradient(90deg,#323348,#3d3f60)",
+    },
   },
   plugins: [],
 }
